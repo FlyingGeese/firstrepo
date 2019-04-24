@@ -26,7 +26,7 @@ body {
 /*	background-image: url('https://www.toyotaoforlando.com/wp-content/themes/DealerInspireDealerTheme/images/about-row-bg.jpg');
  */
 
-background-image: url('https://i.pinimg.com/originals/a8/dd/80/a8dd80f953d36af68c2c5759d7a65ee9.jpg');	
+background-image: url('https://i.pinimg.com/originals/a8/dd/80/a8dd80f953d36af68c2c5759d7a65ee9.jpg');
 height: 500px;
 	background-size: cover;
 	text-align:center;
@@ -81,7 +81,7 @@ h1, h2 {
 
 .info-grid {
 	padding-top: 90px;
-	display: inline-grid; 
+	display: inline-grid;
 	grid-template: 500px / 500px 500px;
 	grid-gap: 150px;
 }
@@ -98,6 +98,7 @@ h1, h2 {
 	background: white;
 	width: 100%;
 	border-bottom: 1px solid #858585;
+	color: #333;
 }
 
 #navbar ul {
